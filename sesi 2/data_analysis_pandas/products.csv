@@ -1,0 +1,13 @@
+name,category,price,sold,stock
+Kopi Susu,Beverage,25000,320,45
+Teh Manis,Beverage,15000,410,60
+Air Mineral,Beverage,8000,520,120
+Jus Jeruk,Beverage,22000,180,30
+Nasi Goreng,Food,30000,275,25
+Mie Ayam,Food,28000,240,18
+Ayam Geprek,Food,32000,300,22
+Roti Bakar,Snack,18000,150,40
+Kentang Goreng,Snack,20000,210,35
+Pisang Coklat,Snack,17000,130,12
+Donat,Snack,12000,95,8
+Croissant,Snack,23000,70,15
